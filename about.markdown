@@ -8,6 +8,8 @@ Tiny Home VR is a mindfulness and relaxing application which focuses on our two 
 
 By using the app just once a day, you can learn how to harness the power of your breathing and set your mind at ease.
 
+Now available on the [Meta Quest Store](https://www.meta.com/en-gb/experiences/tiny-home/4529117590527700) and [SideQuest](https://sidequestvr.com/app/8949/tiny-home).
+
 ## Our Pillars
 
 *Color Models*

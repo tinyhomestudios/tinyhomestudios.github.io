@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Terms & Conditions
-permalink: /tc/
+permalink: /tinyhome/terms/
 ---
 
 # Terms and Conditions - Tiny Home VR

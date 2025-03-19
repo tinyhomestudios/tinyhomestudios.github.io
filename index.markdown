@@ -11,6 +11,6 @@ layout: home
 
 <p></p>
 
-Now available on the <a href="https://www.meta.com/en-gb/experiences/tiny-home/4529117590527700">Meta Quest Store</a> and <a href="https://sidequestvr.com/app/8949/tiny-home">SideQuest</a>.
+Now available on the [Meta Quest Store](https://www.meta.com/en-gb/experiences/tiny-home/4529117590527700) and [SideQuest](https://sidequestvr.com/app/8949/tiny-home).
 
 <hr>

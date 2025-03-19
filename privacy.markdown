@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Privacy Policy
-permalink: /privacy/
+permalink: /tinyhome/privacy/
 ---
 
 # Privacy Policy - Tiny Home VR
